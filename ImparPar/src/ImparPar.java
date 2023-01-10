@@ -17,6 +17,7 @@ public class ImparPar {
 
         System.out.println("Digite o primeiro número: ");
         a = scan.nextInt();
+
         if (a % 2 == 0) {
             ++contpar;
         } else {
@@ -29,6 +30,8 @@ public class ImparPar {
         } else {
             ++contnegativo;
         }
+
+
         System.out.println("Digite o segundo número: ");
         b = scan.nextInt();
         if (b % 2 == 0) {
@@ -43,6 +46,8 @@ public class ImparPar {
         } else {
             ++contnegativo;
         }
+
+
         System.out.println("Digite o terceiro número: ");
         c = scan.nextInt();
         if (c % 2 == 0) {
@@ -57,6 +62,8 @@ public class ImparPar {
         } else {
             ++contnegativo;
         }
+
+
         System.out.println("Digite o quarto número: ");
         d = scan.nextInt();
         if (d % 2 == 0) {
@@ -71,6 +78,8 @@ public class ImparPar {
         } else {
             ++contnegativo;
         }
+
+        
         System.out.println("Digite o último número: ");
         e = scan.nextInt();
         if (e % 2 == 0) {
