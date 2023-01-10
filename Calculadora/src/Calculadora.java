@@ -21,6 +21,7 @@ public class Calculadora {
 	System.out.println("divisao = " + divisao);
 	System.out.println("mutiplicacao = " + multiplicacao);
 	scan.close();
+	
 	}
 
 
